@@ -6,10 +6,10 @@ nulta domaca zadaca
 
 #Pitanje 1
 U Bin/Debug folderu se nakon dodavanja class library reference pojavila Classlybrary1.dll i 
-Classlibrary1.pdb datoteka. Nakon uklanjanja Classlybrary1.dll datoteke nije moguæe pokrenuti 
+ClassLibrary1.pdb datoteka. Nakon uklanjanja ClassLybrary1.dll datoteke nije moguæe pokrenuti 
 .exe datoteku jer nedostaje library potreban za izvoðenje programa (javlja se poruka "The 
 system cannot find the file specified").
-Da bi aplikacija bila uporabljiva, potrebne su datoteke Classlibrary.dll i KonzolnaAplikacija.exe 
+Da bi aplikacija bila uporabljiva, potrebne su datoteke ClassLibrary.dll i KonzolnaAplikacija.exe 
 
 
 #Pitanje 2
